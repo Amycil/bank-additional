@@ -3,7 +3,7 @@ Customers of a Portugueuse Banking Institutuion were contacted mainly by phone, 
 
 ### OBJECTIVE
 - The main purpose of this project was to train a machine learning model based on the bank marketing data from a Portugueuse banking institution to determine if a customer\client will subscribe to a product(fixed term deposit).
-- The minor aim of this project is to try feature selction ad feature engineering using featurewiz, a python library.
+- The minor aim of this project is to try feature selction and feature engineering using featurewiz, a python library.
 
 
 ### PROCESS
